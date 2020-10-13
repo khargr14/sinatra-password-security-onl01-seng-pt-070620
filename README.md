@@ -6,7 +6,7 @@
 2. Learn about Active Record's `has_secure_password` method.
 3. Sign up and log in a user with a secure, encrypted password.
 
-## Overview
+## Overview 
 
 Securing users' data is one of the most important jobs of a web developer.
 Despite frequent warnings against it, many of your users will use the same
